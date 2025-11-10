@@ -27,4 +27,7 @@ Thumbs.db
 # Note: sanskrit_tokenizer.pkl should be committed for Hugging Face Spaces
 # to avoid retraining on every deployment
 
+# Ignored by request: tokenizer artifact
+# If you instead want Spaces to reuse a pre-trained tokenizer, remove this entry and commit the file
+sanskrit_tokenizer.pkl
 
