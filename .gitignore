@@ -27,3 +27,4 @@ Thumbs.db
 # Note: sanskrit_tokenizer.pkl should be committed for Hugging Face Spaces
 # to avoid retraining on every deployment
 
+
